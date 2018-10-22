@@ -4975,7 +4975,7 @@ eckerde01,1954,10,3,USA,CA,Oakland,,,,,,,Dennis,Eckersley,Dennis Lee,190,74,R,R,
 eckhaox01,1901,12,23,USA,TX,Yorktown,1951,4,22,USA,TX,Yorktown,Ox,Eckhardt,Oscar George,185,73,L,R,1932-04-16,1936-05-15,eckho101,eckhaox01
 eckstda01,1975,1,20,USA,FL,Sanford,,,,,,,David,Eckstein,David Mark,170,66,R,R,2001-04-03,2010-10-03,ecksd001,eckstda01
 eddych01,1969,11,27,USA,TX,Dallas,,,,,,,Chris,Eddy,Christopher Mark,200,75,L,L,1995-04-26,1995-05-12,eddyc001,eddych01
-eddydo01,1946,10,25,USA,IA,Mason City,,,,,,,Don,Eddy,Donald Eugene,170,71,R,L,1970-09-07,1971-09-30,eddyd101,eddydo01
+eddydo01,1946,10,25,USA,IA,Mason City,2018,10,10,USA,IA,Rockwell,Don,Eddy,Donald Eugene,170,71,R,L,1970-09-07,1971-09-30,eddyd101,eddydo01
 eddyst01,1957,8,21,USA,IL,Stirling,,,,,,,Steve,Eddy,Steven Allen,185,74,R,R,1979-06-13,1979-08-05,eddys101,eddyst01
 edeleed01,1912,3,16,USA,MD,Bryantown,1982,2,1,USA,MD,La Plata,Ed,Edelen,Edward Joseph,191,72,R,R,1932-08-20,1932-08-21,edele101,edeleed01
 edelejo01,1955,9,16,USA,OK,Durant,,,,,,,Joe,Edelen,Benny Joe,165,72,R,R,1981-04-18,1982-05-15,edelj101,edelejo01
@@ -7899,7 +7899,7 @@ hillbe01,1864,8,24,USA,IL,Kewanee,1934,10,22,USA,IA,Cedar Rapids,Belden,Hill,Bel
 hillbi01,1874,8,2,USA,TN,Chattanooga,1938,1,28,USA,OH,Cincinnati,Bill,Hill,William Cicero,201,73,L,L,1896-04-18,1899-09-13,hillb102,hillbi01
 hillbo01,1978,4,3,USA,CA,San Jose,,,,,,,Bobby,Hill,William Robert,175,70,B,R,2002-05-10,2005-07-20,hillb001,hillbo01
 hillca01,1895,10,1,USA,MN,Royalton,1990,1,1,USA,IN,Indianapolis,Carmen,Hill,Carmen Proctor,180,73,R,R,1915-08-24,1930-05-04,hillc102,hillca01
-hillda01,1937,11,11,USA,LA,New Orleans,,,,,,,Dave,Hill,David Burnham,170,74,R,L,1957-08-22,1957-08-26,hilld101,hillda01
+hillda01,1937,11,11,USA,LA,New Orleans,2018,10,16,,,,Dave,Hill,David Burnham,170,74,R,L,1957-08-22,1957-08-26,hilld101,hillda01
 hilldo01,1960,11,12,USA,CA,Pomona,,,,,,,Donnie,Hill,Donald Earl,160,70,B,R,1983-07-25,1992-07-11,hilld001,hilldo01
 hillech01,1934,10,1,USA,IL,Johnsburg,2004,10,20,USA,FL,St. Pete Beach,Chuck,Hiller,Charles Joseph,170,71,L,R,1961-04-11,1968-06-02,hillc101,hillech01
 hilleed01,1879,6,17,USA,OH,Cleveland,1956,11,14,USA,OH,Cleveland,Ed,Hilley,Edward Garfield,170,70,R,R,1903-09-29,1903-09-29,hille101,hilleed01
@@ -9651,7 +9651,7 @@ kreitra01,1885,11,13,USA,NE,Plum Creek,1941,7,20,USA,OR,Portland,Ralph,Kreitz,Ra
 kremeji01,1965,10,8,USA,AR,Little Rock,,,,,,,Jimmy,Kremers,James Edward,205,75,L,R,1990-06-05,1990-10-03,kremj001,kremeji01
 kremera01,1893,3,23,USA,CA,Oakland,1965,2,8,USA,CA,Pinole,Ray,Kremer,Remy Peter,190,73,R,R,1924-04-18,1933-07-01,kremr101,kremera01
 kremmji01,1949,2,28,USA,IL,Belleville,2012,10,12,USA,WA,Spokane,Jim,Kremmel,James Louis,175,72,L,L,1973-07-04,1974-09-25,kremj101,kremmji01
-krencwa01,1954,9,17,USA,NJ,Trenton,,,,,,,Wayne,Krenchicki,Wayne Richard,180,73,L,R,1979-06-15,1986-09-22,krenw001,krencwa01
+krencwa01,1954,9,17,USA,NJ,Trenton,2018,10,16,USA,IL,Pittsfield,Wayne,Krenchicki,Wayne Richard,180,73,L,R,1979-06-15,1986-09-22,krenw001,krencwa01
 kressch01,1921,12,9,USA,PA,Philadelphia,2014,3,4,USA,WA,Colville,Chuck,Kress,Charles Steven,190,72,L,L,1947-04-16,1954-07-08,kresc101,kressch01
 kressre01,1905,1,2,USA,CA,Columbia,1962,11,29,USA,CA,Los Angeles,Red,Kress,Ralph,165,71,R,R,1927-09-24,1946-07-17,kresr101,kressre01
 kretllo01,1921,6,27,USA,OK,Apache,2007,9,12,USA,OK,Enid,Lou,Kretlow,Louis Henry,185,74,R,R,1946-09-26,1956-09-23,kretl101,kretllo01
@@ -16838,7 +16838,7 @@ staniro01,1972,3,10,USA,SC,Easley,,,,,,,Rob,Stanifer,Robert Wayne,205,75,R,R,199
 stanist01,1961,6,19,USA,IL,Lake Forest,,,,,,,Steve,Stanicek,Stephen Blair,190,72,R,R,1987-09-16,1989-10-01,stans001,stanist01
 stankan01,1964,8,10,USA,CA,Inglewood,,,,,,,Andy,Stankiewicz,Andrew Neal,165,69,R,R,1992-04-11,1998-09-23,stana001,stankan01
 stanked01,1915,9,3,USA,PA,Philadelphia,1999,6,6,USA,AL,Fairhope,Eddie,Stanky,Edward Raymond,170,68,R,R,1943-04-21,1953-07-25,stane101,stanked01
-stankjo01,1931,7,23,USA,OK,Hammon,,,,,,,Joe,Stanka,Joe Donald,201,78,R,R,1959-09-02,1959-09-05,stanj105,stankjo01
+stankjo01,1931,7,23,USA,OK,Hammon,2018,10,15,USA,TX,Katy,Joe,Stanka,Joe Donald,201,78,R,R,1959-09-02,1959-09-05,stanj105,stankjo01
 stankto01,1882,3,20,USA,MA,Waltham,1958,6,13,USA,MA,Waltham,Tom,Stankard,Thomas Francis,190,72,R,R,1904-07-02,1904-07-26,stant102,stankto01
 stanlbo01,1954,11,10,USA,ME,Portland,,,,,,,Bob,Stanley,Robert William,210,76,R,R,1977-04-16,1989-09-05,stanb001,stanlbo01
 stanlbu01,1889,11,13,USA,DC,Washington,1940,8,13,USA,VA,Norfolk,Buck,Stanley,John Leonard,160,70,L,L,1911-09-12,1911-10-09,stanb102,stanlbu01
