@@ -81,7 +81,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 1880,NL,BSN,ATL,,6,,,,N,,Boston Red Caps,South End Grounds I,,97,96,BSN,BSN,BSN
 1880,NL,CHN,CHC,,1,,,,Y,,Chicago White Stockings,Lake Front Park I,,106,102,CHC,CHN,CHN
 1880,NL,CL2,CBL,,3,,,,N,,Cleveland Blues,Kennard Street Park,,98,99,CLV,CL2,CL2
-1880,NL,CN1,CNR,,8,,,,N,,Cincinnati Reds,Bank Street Grounds,,98,104,CIN,CN1,CN1
+1880,NL,CN1,CNR,,8,,,,N,,Cincinnati Reds,Bank Street Grounds,,98,104,CIN,CN1,CN4
 1880,NL,PRO,PRO,,2,,,,N,,Providence Grays,Messer Street Grounds,,97,93,PRO,PRO,PRO
 1880,NL,TRN,TRT,,4,,,,N,,Troy Trojans,Haymakers' Grounds,,105,106,TRO,TRN,TRN
 1880,NL,WOR,WOR,,5,,,,N,,Worcester Ruby Legs,Worcester Driving Park Grounds,,108,109,WOR,WOR,WOR
@@ -94,7 +94,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 1881,NL,TRN,TRT,,5,,,,N,,Troy Trojans,Haymakers' Grounds,,105,106,TRO,TRN,TRN
 1881,NL,WOR,WOR,,8,,,,N,,Worcester Ruby Legs,Worcester Driving Park Grounds,,105,108,WOR,WOR,WOR
 1882,NL,BFN,BUF,,3,,,,N,,Buffalo Bisons,Riverside Park,,102,101,BUF,BFN,BFN
-1882,AA,BL2,BLO,,6,,,,N,,Baltimore Orioles,Newington Park,,90,100,BAL,BL2,BL2
+1882,AA,BL2,BLO,,6,,,,N,,Baltimore Orioles,Newington Park,,90,100,BAL,BL2,BL5
 1882,NL,BSN,ATL,,3,,,,N,,Boston Red Caps,South End Grounds I,,100,98,BSN,BSN,BSN
 1882,NL,CHN,CHC,,1,,,,Y,,Chicago White Stockings,Lake Front Park I/Lake Front Park II,,105,99,CHC,CHN,CHN
 1882,NL,CL2,CBL,,5,,,,N,,Cleveland Blues,Kennard Street Park,,97,97,CLV,CL2,CL2
