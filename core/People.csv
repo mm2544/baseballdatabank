@@ -1758,7 +1758,7 @@ bowerce01,1978,2,10,USA,FL,Gainesville,,,,,,,Cedrick,Bowers,Cedrick Jerome,220,7
 bowerfr01,1868,12,5,USA,MI,Romeo,1948,11,30,USA,MI,Romeo,Frank,Bowerman,Frank Eugene,190,74,R,R,1895-08-24,1909-07-13,bowef102,bowerfr01
 bowersh01,1971,7,27,USA,CA,Glendora,,,,,,,Shane,Bowers,Shane Patrick,215,76,R,R,1997-07-26,1997-08-16,bowes001,bowersh01
 bowerst01,1915,2,26,USA,PA,New Freedom,2005,12,14,USA,PA,Havertown,Stew,Bowers,Stewart Cole,170,72,B,R,1935-08-05,1937-05-18,bowes102,bowerst01
-bowesfr01,1865,,,USA,NY,Bath,1895,1,21,USA,NY,Brooklyn,Frank,Bowes,Frank M.,160,69,,R,1890-04-17,1890-08-25,bowef101,bowesfr01
+bowesfr01,1865,,,USA,NY,Bath,1895,1,21,USA,NY,Brooklyn,Frank,Bowes,Francis M.,160,69,,R,1890-04-17,1890-08-25,bowef101,bowesfr01
 bowieji01,1965,2,17,Japan,Tokyo,Tokyo,,,,,,,Jim,Bowie,James R.,205,72,L,L,1994-08-03,1994-08-11,bowij001,bowieji01
 bowiemi01,1974,11,10,USA,TX,Humble,,,,,,,Micah,Bowie,Micah Andrew,185,76,L,L,1999-07-24,2008-04-21,bowim001,bowiemi01
 bowkejo01,1983,7,8,USA,CA,Sacramento,,,,,,,John,Bowker,John Brite,205,73,L,L,2008-04-12,2011-09-27,bowkj001,bowkejo01
@@ -2007,7 +2007,7 @@ brittdr01,1989,5,22,USA,TX,Waco,,,,,,,Drake,Britton,John Drake,215,74,L,L,2013-0
 brittgi01,1891,9,21,USA,KS,Parsons,1983,6,20,USA,KS,Parsons,Gil,Britton,Stephen Gilbert,160,70,R,R,1913-09-20,1913-09-23,britg101,brittgi01
 brittgu01,1909,11,29,USA,NC,Wilmington,1974,2,16,USA,NC,Wilmington,Gus,Brittain,August Schuster,192,70,R,R,1937-07-22,1937-09-15,britg102,brittgu01
 brittja01,1924,3,4,USA,IL,Athens,1994,1,5,USA,IL,Springfield,Jack,Brittin,John Albert,175,71,R,R,1950-09-15,1951-05-13,britj102,brittja01
-brittji01,1856,2,25,USA,NY,Brooklyn,1923,2,28,USA,CA,San Francisco,Jim,Britt,James Edward,,66,,,1872-05-02,1873-11-01,britj103,brittji01
+brittji01,,,,,,,,,,,,,Jim,Britt,James E.,,66,,,1872-05-02,1873-11-01,britj103,brittji01
 brittji02,1944,3,25,USA,NY,North Tonawanda,,,,,,,Jim,Britton,James Allan,225,77,R,R,1967-09-20,1971-09-25,britj101,brittji02
 brittza01,1987,12,22,USA,CA,Panorama City,,,,,,,Zack,Britton,Zackary Grant,195,75,L,L,2011-04-03,2019-07-04,britz001,brittza01
 brizzto01,1957,1,14,USA,CA,Santa Monica,,,,,,,Tony,Brizzolara,Anthony John,215,77,R,R,1979-05-19,1984-09-28,brizt001,brizzto01
@@ -2653,7 +2653,7 @@ cantujo01,1982,1,30,USA,TX,McAllen,,,,,,,Jorge,Cantu,Jorge Luis,205,75,R,R,2004-
 cantwbe01,1902,4,13,USA,TN,Milan,1962,12,4,USA,MO,Salem,Ben,Cantwell,Benjamin Caldwell,168,73,R,R,1927-08-19,1937-09-23,cantb102,cantwbe01
 cantwmi01,1894,6,15,USA,DC,Washington,1953,1,5,USA,NC,Swannanoa,Mike,Cantwell,Michael Joseph,160,72,L,L,1916-09-17,1920-05-22,cantm101,cantwmi01
 cantwto01,1888,12,23,USA,DC,Washington,1968,4,1,USA,DC,Washington,Tom,Cantwell,Thomas Aloysius,175,73,R,R,1909-05-19,1910-05-24,cantt101,cantwto01
-cantzba01,1860,1,29,USA,PA,Philadelphia,1943,2,12,USA,PA,Philadelphia,Bart,Cantz,Bartholomew L.,,,R,R,1888-07-25,1890-05-17,cantb101,cantzba01
+cantzba01,1860,1,29,USA,PA,Philadelphia,1943,2,12,USA,PA,Philadelphia,Bart,Cantz,Bartholomew L.,152,69,R,R,1888-07-25,1890-05-17,cantb101,cantzba01
 canzlru01,1986,4,11,USA,PA,Berwick,,,,,,,Russ,Canzler,Russell Michael,220,74,R,R,2011-09-15,2012-10-03,canzr001,canzlru01
 capeljo01,1981,1,13,D.R.,Sanchez Ramirez,Cotui,2015,4,7,USA,PA,Philadelphia,Jose,Capellan,Jose Francisco,245,76,R,R,2004-09-12,2008-04-26,capej001,capeljo01
 capelmi01,1961,10,13,USA,TX,Marshall,,,,,,,Mike,Capel,Michael Lee,175,73,R,R,1988-05-07,1991-08-14,capem001,capelmi01
@@ -3194,7 +3194,7 @@ clarkje01,1963,8,10,USA,TX,Crockett,,,,,,,Jerald,Clark,Jerald Dwayne,200,76,R,R,
 clarkje02,1976,9,29,USA,CA,Berkeley,,,,,,,Jermaine,Clark,Jermaine Marcel,175,70,L,R,2001-04-03,2005-05-24,clarj003,clarkje02
 clarkji01,1887,12,26,USA,NY,Brooklyn,1969,3,20,USA,TX,Beaumont,Jim,Clark,James Francis,175,71,R,R,1911-09-02,1912-05-05,clarj101,clarkji01
 clarkji02,1927,9,21,USA,PA,Baggaley,1990,10,24,USA,CA,Santa Monica,Jim,Clark,James,150,69,R,R,1948-08-17,1948-09-08,clarj105,clarkji02
-clarkji03,1947,4,30,USA,KS,Kansas City,,,,,,,Jim,Clark,James Edward,190,73,R,R,1971-07-16,1971-08-03,clarj104,clarkji03
+clarkji03,1947,4,30,USA,KS,Kansas City,2019,1,14,USA,CA,Mira Loma,Jim,Clark,James Edward,190,73,R,R,1971-07-16,1971-08-03,clarj104,clarkji03
 clarkjo01,1861,7,1,USA,MA,Cambridge,1909,2,4,USA,MA,Belmont,John,Clarkson,John Gibson,155,70,R,R,1882-05-02,1894-07-12,clarj102,clarkjo01
 clarkjo02,1879,3,8,USA,KS,Winfield,1962,7,2,USA,CA,Ventura,Josh,Clarke,Joshua Baldwin,180,70,L,R,1898-06-15,1911-05-23,clarj103,clarkjo02
 clarkle01,1896,3,8,USA,MD,Clarksville,1975,3,11,USA,MD,Cheverly,Lefty,Clarke,Alan Thomas,180,71,B,L,1921-10-02,1921-10-02,clarl101,clarkle01
@@ -4120,7 +4120,7 @@ daughdo01,1927,10,12,USA,PA,Paris,2015,8,15,USA,PA,Downingtown,Doc,Daugherty,Har
 daughja01,1960,7,3,USA,FL,Hialeah,,,,,,,Jack,Daugherty,John Michael,188,72,B,L,1987-09-01,1993-10-03,daugj001,daughja01
 daultda01,1962,1,3,USA,KS,Arkansas City,2017,8,6,USA,FL,Clearwater,Darren,Daulton,Darren Arthur,195,74,L,R,1983-09-25,1997-09-28,dauld001,daultda01
 daussho01,1889,9,22,USA,IN,Indianapolis,1963,7,27,USA,MO,St. Louis,Hooks,Dauss,George August,168,70,R,R,1912-09-28,1926-09-19,daush101,daussho01
-davalvi01,1936,7,31,Venezuela,Falcon,Churuguara,,,,,,,Vic,Davalillo,Victor Jose,150,67,L,L,1963-04-09,1980-10-06,davav101,davalvi01
+davalvi01,1939,7,30,Venezuela,Zulia,Cabimas,,,,,,,Vic,Davalillo,Victor Jose,150,67,L,L,1963-04-09,1980-10-06,davav101,davalvi01
 davalyo01,1928,6,30,Venezuela,Zulia,Cabimas,2013,2,28,Venezuela,Miranda,Ocumare del Tuy,Yo-Yo,Davalillo,Pompeyo Antonio,140,63,R,R,1953-08-01,1953-08-23,davay101,davalyo01
 davanje01,1945,8,21,USA,CA,Oceanside,,,,,,,Jerry,DaVanon,Frank Gerald,175,71,R,R,1969-04-11,1977-05-04,davaj101,davanje01
 davanje02,1973,12,8,USA,CA,San Diego,,,,,,,Jeff,DaVanon,Jeffrey Graham,185,72,B,R,1999-09-07,2007-09-30,davaj001,davanje02
@@ -9170,7 +9170,7 @@ kauffbe01,1890,1,5,USA,OH,Pomeroy,1961,11,17,USA,OH,Columbus,Benny,Kauff,Benjami
 kauffdi01,1888,6,22,USA,PA,East Lewisburg,1948,4,16,USA,PA,Lewisburg,Dick,Kauffman,Howard Richard,190,75,B,R,1914-09-17,1915-06-12,kaufd101,kauffdi01
 kaufmcu01,1957,7,19,USA,NE,Omaha,,,,,,,Curt,Kaufman,Curt Gerrard,175,74,R,R,1982-09-10,1984-09-25,kaufc001,kaufmcu01
 kaufmto01,1900,12,16,USA,IL,Chicago,1982,6,4,USA,IL,Elgin,Tony,Kaufmann,Anthony Charles,165,71,R,R,1921-09-23,1935-09-23,kauft101,kaufmto01
-kavan01,,,,,,,,,,,,,James,Cavanagh,James,,,,,1872-09-11,1872-09-19,kavau101,kavan01
+kavan01,1850,,,United Kingdom,,,1890,10,14,USA,NY,Brooklyn,James,Cavanagh,James J.,,,,,1872-09-11,1872-09-19,kavau101,kavan01
 kavanch01,1891,6,9,USA,IL,Chicago,1973,9,6,USA,WI,Reedsburg,Charlie,Kavanagh,Charles Hugh,165,69,R,R,1914-06-11,1914-06-28,kavac101,kavanch01
 kavanle01,1894,8,9,USA,IL,Chicago,1950,8,10,USA,IL,Chicago,Leo,Kavanagh,Leo Daniel,180,69,R,R,1914-04-22,1914-05-02,kaval101,kavanle01
 kavanma01,1891,6,13,USA,NJ,Harrison,1960,7,28,USA,MI,Taylor,Marty,Kavanagh,Martin Joseph,187,72,R,R,1914-04-18,1918-08-08,kavam101,kavanma01
