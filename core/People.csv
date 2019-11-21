@@ -3306,7 +3306,7 @@ clymeot01,1876,1,27,USA,PA,Pine Grove,1926,2,27,USA,MN,St. Paul,Otis,Clymer,Otis
 coachpe01,1961,11,11,USA,AL,Cottonwood,,,,,,,Pete,Coachman,Bobby Dean,175,69,R,R,1990-08-18,1990-10-03,coacp001,coachpe01
 coaklan01,1882,11,20,USA,RI,Providence,1963,9,27,USA,NY,New York,Andy,Coakley,Andrew James,165,72,L,R,1902-09-17,1911-06-27,coaka101,coaklan01
 coangi01,1922,5,18,USA,NC,Monroe,,,,,,,Gil,Coan,Gilbert Fitzgerald,180,72,L,R,1946-04-27,1956-04-25,coang101,coangi01
-coateji01,1932,8,4,USA,VA,Farnham,,,,,,,Jim,Coates,James Alton,192,76,R,R,1956-09-21,1967-09-30,coatj101,coateji01
+coateji01,1932,8,4,USA,VA,Farnham,2019,11,15,,,,Jim,Coates,James Alton,192,76,R,R,1956-09-21,1967-09-30,coatj101,coateji01
 coatsbu01,1982,6,9,USA,GA,Fort Benning,,,,,,,Buck,Coats,Buck,200,75,L,R,2006-08-22,2008-04-11,coatb001,coatsbu01
 coatsja01,1990,2,24,USA,TX,Dallas,,,,,,,Jason,Coats,Jason Leavell,200,74,R,R,2016-06-04,2016-09-29,coatj001,coatsja01
 cobbal01,1987,10,7,USA,MA,Boston,,,,,,,Alex,Cobb,Alexander Miller,205,75,R,R,2011-05-01,2019-04-26,cobba001,cobbal01
@@ -13120,7 +13120,7 @@ norbejo01,1986,12,8,D.R.,Maria Trinidad Sanchez,Nagua,,,,,,,Jordan,Norberto,Jord
 nordbti01,1949,7,7,USA,MD,Baltimore,,,,,,,Tim,Nordbrook,Timothy Charles,180,73,R,R,1974-09-13,1979-06-10,nordt101,nordbti01
 nordhwa01,1948,7,4,USA,MN,Thief River Falls,,,,,,,Wayne,Nordhagen,Wayne Oren,205,74,R,R,1976-07-16,1983-05-30,nordw101,nordhwa01
 nordylo01,1876,8,7,USA,IA,Brighton,1945,9,27,USA,CA,Los Angeles,Lou,Nordyke,Louis Ellis,185,72,R,R,1906-04-18,1906-06-27,nordl101,nordylo01
-norenir01,1924,11,29,USA,NY,Jamestown,,,,,,,Irv,Noren,Irving Arnold,190,72,L,L,1950-04-18,1960-10-01,norei101,norenir01
+norenir01,1924,11,29,USA,NY,Jamestown,2019,11,15,USA,CA,Oceanside,Irv,Noren,Irving Arnold,190,72,L,L,1950-04-18,1960-10-01,norei101,norenir01
 noriejo01,1943,12,20,USA,UT,Ogden,2001,9,29,USA,UT,Bountiful,John,Noriega,John Alan,185,76,R,R,1969-05-01,1970-08-09,norij101,noriejo01
 normabi01,1910,7,16,USA,MO,St. Louis,1962,4,21,USA,WI,Milwaukee,Bill,Norman,Henry Willis Patrick,190,74,R,R,1931-08-08,1932-09-24,normb101,normabi01
 normada01,1955,1,11,USA,CA,Los Angeles,,,,,,,Dan,Norman,Daniel Edmund,195,74,R,R,1977-09-27,1982-09-29,normd101,normada01
@@ -15733,7 +15733,7 @@ sanchga01,1983,9,2,USA,FL,Miami,,,,,,,Gaby,Sanchez,Gabriel,235,73,R,R,2008-09-17
 sanchga02,1992,12,2,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Gary,Sanchez,Gary,230,74,R,R,2015-10-03,2019-09-29,sancg002,sanchga02
 sanchhe01,1989,11,17,Venezuela,Aragua,Maracay,,,,,,,Hector,Sanchez,Hector Enrique,255,73,B,R,2011-07-15,2017-10-01,sanch002,sanchhe01
 sanchhu01,1983,5,28,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Humberto,Sanchez,Humberto A.,270,78,R,R,2008-09-18,2008-09-25,sanch001,sanchhu01
-sanchis01,1963,8,20,Cuba,,Falcon Lasvias,,,,,,,Israel,Sanchez,Israel,170,69,L,L,1988-07-07,1990-10-02,sanci001,sanchis01
+sanchis01,1963,8,20,Cuba,Las Villas,Falcon,,,,,,,Israel,Sanchez,Israel,170,69,L,L,1988-07-07,1990-10-02,sanci001,sanchis01
 sanchje01,1974,10,11,D.R.,Peravia,Nizao,,,,,,,Jesus,Sanchez,Jesus Paulino,165,70,L,L,1998-03-31,2004-07-15,sancj001,sanchje01
 sanchjo01,1982,11,19,P.R.,,Mayaguez,,,,,,,Jonathan,Sanchez,Jonathan Omar,200,72,L,L,2006-05-28,2013-04-29,sancj002,sanchjo01
 sanchlu01,1953,8,24,Venezuela,Sucre,Cariaco,2005,2,4,Venezuela,Vargas,La Guaira,Luis,Sanchez,Luis Mercedes Escoba,170,74,R,R,1981-04-10,1985-10-06,sancl001,sanchlu01
