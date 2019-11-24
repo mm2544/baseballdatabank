@@ -33,7 +33,7 @@ abramca01,1924,3,2,USA,PA,Philadelphia,1997,2,25,USA,FL,Fort Lauderdale,Cal,Abra
 abramge01,1899,11,9,USA,WA,Seattle,1986,12,5,USA,FL,Clearwater,George,Abrams,George Allen,170,69,R,R,1923-04-19,1923-05-04,abrag101,abramge01
 abregjo01,1962,7,4,USA,TX,Corpus Christi,,,,,,,Johnny,Abrego,Johnny Ray,185,72,R,R,1985-09-04,1985-10-03,abrej001,abregjo01
 abreubo01,1974,3,11,Venezuela,Aragua,Maracay,,,,,,,Bobby,Abreu,Bob Kelly,220,72,L,R,1996-09-01,2014-09-28,abreb001,abreubo01
-abreubr01,1997,4,22,D.R.,,Santo Domingo Centro,,,,,,,Bryan,Abreu,Bryan Enrique,204,73,R,R,2019-07-31,2019-09-29,,abreubr01
+abreubr01,1997,4,22,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Bryan,Abreu,Bryan Enrique,204,73,R,R,2019-07-31,2019-09-29,,abreubr01
 abreujo01,1913,5,24,USA,CA,Oakland,1993,3,17,USA,CA,Hayward,Joe,Abreu,Joseph Lawrence,160,68,R,R,1942-04-23,1942-07-11,abrej101,abreujo01
 abreujo02,1987,1,29,Cuba,Cienfuegos,Cienfuegos,,,,,,,Jose,Abreu,Jose Dariel,255,75,R,R,2014-03-31,2019-09-29,abrej003,abreujo02
 abreuju01,1985,4,8,D.R.,Duarte,San Francisco de Macoris,,,,,,,Juan,Abreu,Juan de Dios,185,72,R,R,2011-08-29,2011-09-27,abrej002,abreuju01
@@ -312,7 +312,7 @@ alvaryo01,1997,6,27,Cuba,,Las Tunas,,,,,,,Yordan,Alvarez,Yordan Ruben,225,77,L,R
 alvisma01,1938,2,2,USA,TX,Jasper,,,,,,,Max,Alvis,Roy Maxwell,185,71,R,R,1962-09-11,1970-09-27,alvim101,alvisma01
 alvorbi01,1863,8,10,USA,MO,St. Louis,1927,4,7,USA,FL,St. Petersburg,Billy,Alvord,William Crawford,187,70,R,R,1885-04-30,1893-07-08,alvob101,alvorbi01
 alyeabr01,1940,12,8,USA,NJ,Passaic,,,,,,,Brant,Alyea,Garrabrant Ryerson,215,75,R,R,1965-09-11,1972-10-03,alyeb101,alyeabr01
-alzolad01,1995,3,1,Venezuela,Bolivar,Puerto Ordaz,,,,,,,Adbert,Alzolay,Adbert,179,72,R,R,2019-06-20,2019-09-06,,alzolad01
+alzolad01,1995,3,1,Venezuela,Bolivar,Puerto Ordaz,,,,,,,Adbert,Alzolay,Adbert Marcelo,179,72,R,R,2019-06-20,2019-09-06,,alzolad01
 amalfjo01,1934,1,23,USA,CA,San Pedro,,,,,,,Joey,Amalfitano,John Joseph,175,71,R,R,1954-05-02,1967-06-27,amalj101,amalfjo01
 amarari01,1962,4,1,USA,CA,Visalia,,,,,,,Rich,Amaral,Richard Louis,175,72,R,R,1991-05-27,2000-06-14,amarr001,amarari01
 amarial01,1989,4,6,Venezuela,Anzoategui,Barcelona,,,,,,,Alexi,Amarista,Alexi Jose,160,66,L,R,2011-04-26,2017-10-01,amara001,amarial01
@@ -499,7 +499,7 @@ arntzor01,1909,10,18,USA,IL,Beverly,1970,1,28,USA,IA,Cedar Rapids,Orie,Arntzen,O
 arochre01,1964,2,24,Cuba,La Habana,La Habana,,,,,,,Rene,Arocha,Rene,180,72,R,R,1993-04-09,1997-06-06,arocr001,arochre01
 arojo01,1990,10,10,D.R.,La Vega,La Vega,,,,,,,Jonathan,Aro,Jonathan Arturo,235,72,R,R,2015-06-25,2016-06-20,aro-j001,arojo01
 arozara01,1995,2,28,Cuba,La Habana,La Habana,,,,,,,Randy,Arozarena,Randy,170,71,R,R,2019-08-14,2019-09-29,,arozara01
-arraelu01,1997,4,9,Venezuela,,San Felipe,,,,,,,Luis,Arraez,Luis Sangel,177,70,L,R,2019-05-18,2019-09-28,,arraelu01
+arraelu01,1997,4,9,Venezuela,Yaracuy,San Felipe,,,,,,,Luis,Arraez,Luis Sangel,177,70,L,R,2019-05-18,2019-09-28,,arraelu01
 arredjo01,1984,3,12,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Jose,Arredondo,Jose Juan,190,72,R,R,2008-05-14,2012-10-03,arrej001,arredjo01
 arrieja01,1986,3,6,USA,MO,Farmington,,,,,,,Jake,Arrieta,Jacob Joseph,225,76,R,R,2010-06-10,2019-08-11,arrij001,arrieja01
 arrigge01,1941,6,12,USA,IL,Chicago,,,,,,,Gerry,Arrigo,Gerald William,185,73,L,L,1961-06-12,1970-06-05,arrig101,arrigge01
@@ -7696,7 +7696,7 @@ heilmaa01,1978,11,12,USA,IN,Logansport,,,,,,,Aaron,Heilman,Aaron Michael,230,77,
 heilmha01,1894,8,3,USA,CA,San Francisco,1951,7,9,USA,MI,Southfield,Harry,Heilmann,Harry Edwin,195,73,R,R,1914-05-16,1932-05-31,heilh101,heilmha01
 heimafr01,1901,1,27,USA,NJ,Camden,1973,6,1,USA,FL,Fort Myers,Fred,Heimach,Frederick Amos,175,72,L,L,1920-10-01,1933-08-30,heimf101,heimafr01
 heimugo01,1955,9,24,USA,CA,Los Angeles,,,,,,,Gorman,Heimueller,Gorman John,195,76,L,L,1983-07-12,1984-07-04,heimg001,heimugo01
-heimva01,1920,11,4,USA,WI,Plymouth,,,,,,,Val,Heim,Val Raymond,170,71,L,R,1942-08-31,1942-09-22,heimv101,heimva01
+heimva01,1920,11,4,USA,WI,Plymouth,2019,11,21,USA,NE,Superior,Val,Heim,Val Raymond,170,71,L,R,1942-08-31,1942-09-22,heimv101,heimva01
 heinebu01,1900,9,22,USA,NY,Elmira,1976,9,2,USA,FL,Fort Lauderdale,Bud,Heine,William Henry,145,68,L,R,1921-10-01,1921-10-01,heinb101,heinebu01
 heinesc01,1992,12,4,USA,CA,Pacific Palisades,,,,,,,Scott,Heineman,Scott Matthew,215,73,R,R,2019-08-02,2019-09-28,,heinesc01
 heinety01,1991,6,19,USA,CA,Pacific Palisades,,,,,,,Tyler,Heineman,Tyler Andrew,205,71,B,R,2019-09-04,2019-09-27,,heinety01
