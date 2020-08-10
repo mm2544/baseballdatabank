@@ -32,7 +32,7 @@ abnersh01,1966,6,17,USA,OH,Hamilton,,,,,,,Shawn,Abner,Shawn Wesley,190,73,R,R,19
 abramca01,1924,3,2,USA,PA,Philadelphia,1997,2,25,USA,FL,Fort Lauderdale,Cal,Abrams,Calvin Ross,185,72,L,L,1949-04-19,1956-05-09,abrac101,abramca01
 abramge01,1899,11,9,USA,WA,Seattle,1986,12,5,USA,FL,Clearwater,George,Abrams,George Allen,170,69,R,R,1923-04-19,1923-05-04,abrag101,abramge01
 abregjo01,1962,7,4,USA,TX,Corpus Christi,,,,,,,Johnny,Abrego,Johnny Ray,185,72,R,R,1985-09-04,1985-10-03,abrej001,abregjo01
-abreual01,1995,9,26,D.R.,Monte Cristi,Guayubin,,,,,,,Albert,Abreu,Albert Enmanuel,190,74,R,R,2020-08-08,2020-08-08,,
+abreual01,1995,9,26,D.R.,Monte Cristi,Guayubin,,,,,,,Albert,Abreu,Albert Enmanuel,190,74,R,R,2020-08-08,2020-08-08,abrea001,abreual01
 abreubo01,1974,3,11,Venezuela,Aragua,Maracay,,,,,,,Bobby,Abreu,Bob Kelly,220,72,L,R,1996-09-01,2014-09-28,abreb001,abreubo01
 abreubr01,1997,4,22,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Bryan,Abreu,Bryan Enrique,225,73,R,R,2019-07-31,2020-08-04,abreb002,abreubr01
 abreujo01,1913,5,24,USA,CA,Oakland,1993,3,17,USA,CA,Hayward,Joe,Abreu,Joseph Lawrence,160,68,R,R,1942-04-23,1942-07-11,abrej101,abreujo01
@@ -2314,7 +2314,7 @@ burdefr01,1936,9,15,USA,GA,Moultrie,2010,6,1,USA,GA,Albany,Freddie,Burdette,Fred
 burdele01,1926,11,22,USA,WV,Nitro,2007,2,6,USA,FL,Winter Garden,Lew,Burdette,Selva Lewis,180,74,R,R,1950-09-26,1967-07-16,burdl101,burdele01
 burdibi01,1859,10,11,USA,MN,Austin,1949,10,23,USA,WA,Spokane,Bill,Burdick,William Byron,,,R,R,1888-07-23,1889-07-02,burdb101,burdibi01
 burdini01,1993,1,19,USA,IL,Hinsdale,,,,,,,Nick,Burdi,Nicholas Edward,225,75,R,R,2018-09-11,2020-08-03,burdn001,burdini01
-burdiza01,1995,3,9,USA,IL,Downers Grove,,,,,,,Zack,Burdi,Zachary M.,210,75,R,R,2020-08-08,2020-08-08,,
+burdiza01,1995,3,9,USA,IL,Downers Grove,,,,,,,Zack,Burdi,Zachary M.,210,75,R,R,2020-08-08,2020-08-08,burdz001,burdiza01
 burdoja01,1852,4,,USA,NY,Brooklyn,1931,11,27,USA,NY,Brooklyn,Jack,Burdock,John Joseph,158,69,R,R,1872-05-02,1891-07-23,burdj101,burdoja01
 burgesm01,1927,2,6,USA,NC,Caroleen,1991,9,15,USA,NC,Asheville,Smoky,Burgess,Forrest Harrill,185,68,L,R,1949-04-19,1967-10-01,burgs101,burgesm01
 burgeto01,1927,9,1,CAN,ON,London,2008,11,24,CAN,ON,London,Tom,Burgess,Thomas Roland,180,72,L,L,1954-04-17,1962-09-29,burgt101,burgeto01
@@ -2861,13 +2861,13 @@ cassijo01,1855,,,USA,NY,Brooklyn,1891,7,3,USA,NY,Brooklyn,John,Cassidy,John P.,1
 cassijo02,1883,2,8,USA,PA,Chester,1906,3,25,USA,PA,Chester,Joe,Cassidy,Joseph Philip,144,69,R,R,1904-04-18,1905-10-07,cassj102,cassijo02
 cassipe01,1873,4,8,USA,DE,Wilmington,1929,7,9,USA,DE,Wilmington,Pete,Cassidy,Peter Francis,165,70,R,R,1896-04-18,1899-06-22,cassp101,cassipe01
 cassisc01,1975,10,3,USA,NY,Syracuse,,,,,,,Scott,Cassidy,Scott Robert,175,74,R,R,2002-04-01,2006-09-25,casss001,cassisc01
-castada01,1994,9,17,USA,FL,Orlando,,,,,,,Daniel,Castano,Daniel Alexander,231,75,L,L,2020-08-08,2020-08-08,,
+castada01,1994,9,17,USA,FL,Orlando,,,,,,,Daniel,Castano,Daniel Alexander,231,75,L,L,2020-08-08,2020-08-08,castd003,castada01
 casteal01,1986,8,4,USA,FL,Miami,,,,,,,Alex,Castellanos,Alejandro Luis,200,72,R,R,2012-05-31,2013-09-29,casta003,casteal01
 castege01,1907,8,4,USA,CA,Colton,1955,12,18,USA,CA,Lakewood,George,Caster,George Jasper,180,73,R,R,1934-09-10,1946-09-16,castg101,castege01
 castehu01,1998,4,3,Mexico,Jalisco,Tepatitlan,,,,,,,Humberto,Castellanos,Humberto,218,71,R,R,2020-08-04,2020-08-07,casth002,castehu01
 casteni01,1992,3,4,USA,FL,Davie,,,,,,,Nick,Castellanos,Nicholas A.,203,76,R,R,2013-09-01,2020-08-08,castn001,casteni01
 castepe01,1970,3,11,Venezuela,Lara,Barquisimeto,,,,,,,Pedro,Castellano,Pedro Orlando,165,67,R,R,1993-05-30,1996-06-03,castp001,castepe01
-castery01,1996,4,1,USA,PA,Philadelphia,,,,,,,Ryan,Castellani,Ryan,218,76,R,R,2020-08-08,2020-08-08,,
+castery01,1996,4,1,USA,PA,Philadelphia,,,,,,,Ryan,Castellani,Ryan,218,76,R,R,2020-08-08,2020-08-08,castr005,castery01
 castial01,1970,2,10,D.R.,San Juan,San Juan de la Maguana,,,,,,,Alberto,Castillo,Alberto Terrero,184,72,R,R,1995-05-28,2007-06-21,casta001,castial01
 castial02,1975,7,5,Cuba,La Habana,La Habana,,,,,,,Alberto,Castillo,Alberto,255,74,L,L,2008-04-28,2011-09-27,casta002,castial02
 castibo01,1955,4,18,USA,CA,Los Angeles,2014,6,30,USA,CA,Los Angeles,Bobby,Castillo,Robert Ernie,170,70,R,R,1977-09-10,1985-10-04,castr001,castibo01
@@ -11925,7 +11925,7 @@ meansjo01,1993,4,24,USA,KS,Olathe,,,,,,,John,Means,John Alan,230,75,L,L,2018-09-
 mearach01,1891,4,16,USA,NY,New York,1962,2,8,USA,NY,Bronx,Charlie,Meara,Charles Edward,160,70,L,R,1914-06-01,1914-06-07,mearc101,mearach01
 mearepa01,1968,9,6,USA,KS,Salina,,,,,,,Pat,Meares,Patrick James,185,72,R,R,1993-05-05,2001-10-07,mearp001,mearepa01
 mearsch01,1978,1,20,CAN,ON,Ottawa,,,,,,,Chris,Mears,Christopher Peter,190,76,R,R,2003-06-29,2003-09-28,mearc001,mearsch01
-mearsni01,1996,10,7,USA,CA,Sacramento,,,,,,,Nick,Mears,Nicolaus Tanner,215,74,R,R,2020-08-08,2020-08-08,,
+mearsni01,1996,10,7,USA,CA,Sacramento,,,,,,,Nick,Mears,Nicolaus Tanner,215,74,R,R,2020-08-08,2020-08-08,mearn001,mearsni01
 mechegi01,1978,9,8,USA,LA,Lafayette,,,,,,,Gil,Meche,Gilbert Allen,180,75,R,R,1999-07-06,2010-10-03,mechg001,mechegi01
 mecirji01,1970,5,16,USA,NY,Bayside,,,,,,,Jim,Mecir,James Jason,195,73,B,R,1995-09-04,2005-09-28,mecij001,mecirji01
 meddebr01,1980,1,26,USA,AL,Tuscaloosa,,,,,,,Brandon,Medders,Brandon Edward,195,74,R,R,2005-06-20,2010-05-19,meddb001,meddebr01
