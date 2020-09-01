@@ -4076,7 +4076,7 @@ dailyco01,1864,9,11,USA,MA,Blackstone,1928,6,14,USA,NY,Brooklyn,Con,Daily,Cornel
 dailyed01,1862,9,7,USA,RI,Providence,1891,10,21,USA,DC,Washington,Ed,Daily,Edward M.,174,70,R,R,1885-05-04,1891-07-14,daile101,dailyed01
 dailyhu01,1847,7,17,Ireland,,,,,,,,,Hugh,Daily,Hugh Ignatius,180,74,R,R,1882-05-01,1887-08-21,dailh101,dailyhu01
 daisege01,1857,3,9,USA,NJ,Gloucester,1931,4,17,USA,MD,Cumberland,George,Daisy,George R.,140,67,,,1884-05-31,1884-05-31,daisg101,daisege01
-dalbebo01,1995,6,29,USA,WA,Seattle,,,,,,,Bobby,Dalbec,Robert Vernon,227,76,R,R,2020-08-30,2020-08-30,,
+dalbebo01,1995,6,29,USA,WA,Seattle,,,,,,,Bobby,Dalbec,Robert Vernon,227,76,R,R,2020-08-30,2020-08-30,dalbb001,dalbebo01
 dalcabr01,1941,6,15,USA,PA,California,2008,10,7,USA,PA,Pittsburgh,Bruce,Dal Canton,John Bruce,205,74,R,R,1967-09-03,1977-05-27,dalcb101,dalcabr01
 daleca01,1972,12,7,USA,IN,Indianapolis,,,,,,,Carl,Dale,James Carl,215,74,R,R,1999-09-07,1999-09-26,dalec001,daleca01
 dalege01,1889,6,16,USA,MO,St. Louis,1958,3,20,USA,MO,St. Louis,Gene,Dale,Emmett Eugene,179,75,R,R,1911-09-19,1916-07-02,daleg101,dalege01
@@ -6225,7 +6225,7 @@ garcida01,1957,2,7,D.R.,Espaillat,Moca,2020,4,15,D.R.,Distrito Nacional,Santo Do
 garcida02,1954,4,29,USA,NY,Brooklyn,,,,,,,Danny,Garcia,Daniel Raphael,182,73,L,L,1981-04-26,1981-05-26,garcd101,garcida02
 garcida03,1980,4,12,USA,CA,Riverside,,,,,,,Daniel,Garcia,Daniel Joseph,180,72,R,R,2003-09-02,2004-10-03,garcd002,garcida03
 garcida99,1920,9,15,USA,IL,East St. Louis,2018,5,21,USA,CA,San Diego,Dave,Garcia,David,185,72,R,,,,garcd801,garcida99
-garcide01,1999,5,19,D.R.,Monsenor Nouel,Bonao,,,,,,,Deivi,Garcia,Deivi Anderson,163,69,R,R,2020-08-30,2020-08-30,,
+garcide01,1999,5,19,D.R.,Monsenor Nouel,Bonao,,,,,,,Deivi,Garcia,Deivi Anderson,163,69,R,R,2020-08-30,2020-08-30,garcd003,garcide01
 garcied01,1996,10,4,D.R.,San Cristobal,Sabana Grande de Palenque,,,,,,,Edgar,Garcia,Edgar Ernesto,205,73,R,R,2019-05-06,2020-08-29,garce001,garcied01
 garcifr01,1972,8,1,D.R.,La Romana,La Romana,,,,,,,Freddy,Garcia,Freddy Adrian,190,74,R,R,1995-05-02,1999-10-03,garcf001,garcifr01
 garcifr02,1976,10,6,Venezuela,Distrito Federal,Caracas,,,,,,,Freddy,Garcia,Freddy Antonio,250,76,R,R,1999-04-07,2013-09-24,garcf002,garcifr03
