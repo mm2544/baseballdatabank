@@ -1379,7 +1379,7 @@ bibenau01,1985,4,29,USA,OR,Salem,,,,,,,Austin,Bibens-Dirkx,Austin M.,210,73,R,R,
 bichebo01,1998,3,5,USA,FL,Orlando,,,,,,,Bo,Bichette,Bo Joseph,185,72,R,R,2019-07-29,2020-08-15,bichb001,bichebo01
 bicheda01,1963,11,18,USA,FL,West Palm Beach,,,,,,,Dante,Bichette,Alphonse Dante,215,75,R,R,1988-09-05,2001-10-06,bichd001,bicheda01
 bicke99,1848,8,,USA,DC,Washington,1916,2,9,USA,DC,Washington,John,Bickerton,John A.,,,,,,,bicku801,bickejo99
-bickfph01,1995,7,10,USA,CA,Ventura,,,,,,,Phil,Bickford,Phillip Roger,200,76,R,R,2020-09-01,2020-09-01,,
+bickfph01,1995,7,10,USA,CA,Ventura,,,,,,,Phil,Bickford,Phillip Roger,200,76,R,R,2020-09-01,2020-09-01,bickp001,bickfph01
 bickfve01,1920,8,17,USA,KY,Hellier,1960,5,6,USA,VA,Richmond,Vern,Bickford,Vernon Edgell,180,72,R,R,1948-04-24,1954-04-24,bickv101,bickfve01
 bickhda01,1864,10,31,USA,OH,Dayton,1951,3,3,USA,OH,Dayton,Dan,Bickham,Daniel Denison,160,70,R,R,1886-08-13,1886-08-13,bickd101,bickhda01
 bicknch01,1928,7,27,USA,NJ,Plainfield,2013,11,24,USA,MT,Livingston,Charlie,Bicknell,Charles Stephen,170,71,R,R,1948-04-22,1949-09-18,bickc101,bicknch01
@@ -3109,7 +3109,7 @@ chippwa01,1918,9,26,USA,NY,Utica,1988,6,8,USA,NY,Tonawanda,Walt,Chipple,Walter J
 chiriro01,1984,6,5,Venezuela,Falcon,Punto Fijo,,,,,,,Robinson,Chirinos,Robinson David,220,73,R,R,2011-07-18,2020-08-29,chirr001,chiriro01
 chiriyo01,1993,12,26,Venezuela,Zulia,Bachaquero,,,,,,,Yonny,Chirinos,Yonny Enrique,225,74,R,R,2018-04-01,2020-08-16,chiry001,chiriyo01
 chiselo01,1988,10,4,USA,NC,Morehead City,,,,,,,Lonnie,Chisenhall,Lonnie David,190,74,L,R,2011-06-27,2018-07-01,chisl001,chiselo01
-chishja01,1998,2,1,Bahamas,,Nassau,,,,,,,Jazz,Chisholm,Jasrado Hermis Arrington,184,71,L,R,2020-09-01,2020-09-01,,
+chishja01,1998,2,1,Bahamas,New Providence,Nassau,,,,,,,Jazz,Chisholm,Jasrado Hermis Arrington,184,71,L,R,2020-09-01,2020-09-01,chisj001,chishja01
 chismto01,1954,5,9,USA,PA,Chester,,,,,,,Tom,Chism,Thomas Raymond,195,73,L,L,1979-09-13,1979-09-26,chist101,chismto01
 chitiha01,1932,11,16,USA,IL,Kincaid,2002,1,31,USA,FL,Haines City,Harry,Chiti,Harry,221,74,R,R,1950-09-27,1962-06-10,chith101,chitiha01
 chitrst01,1967,6,8,Japan,Tokyo,Tokyo,,,,,,,Steve,Chitren,Stephen Vincent,180,72,R,R,1990-09-05,1991-10-02,chits001,chitrst01
@@ -7678,7 +7678,7 @@ hayesfr01,1914,10,13,USA,NJ,Jamesburg,1955,6,22,USA,NJ,Point Pleasant,Frankie,Ha
 hayesja01,1861,6,27,USA,NY,Brooklyn,1905,4,25,USA,NY,Brooklyn,Jackie,Hayes,John J.,175,68,,R,1882-05-02,1890-08-23,hayej102,hayesja01
 hayesja02,1906,7,19,USA,AL,Clanton,1983,2,9,USA,AL,Birmingham,Jackie,Hayes,Minter Carney,165,70,R,R,1927-08-05,1940-08-29,hayej101,hayesja02
 hayesji01,1913,2,11,USA,AL,Montevallo,1993,11,27,USA,GA,Decatur,Jim,Hayes,James Millard,168,73,L,R,1935-07-13,1935-08-14,hayej103,hayesji01
-hayeske01,1997,1,28,USA,TX,Tomball,,,,,,,Ke'Bryan,Hayes,Ke'Bryan Kobe,205,70,R,R,2020-09-01,2020-09-01,,
+hayeske01,1997,1,28,USA,TX,Tomball,,,,,,,Ke'Bryan,Hayes,Ke'Bryan Kobe,205,70,R,R,2020-09-01,2020-09-01,hayek001,hayeske01
 hayesmi01,1855,1,,USA,NY,New York,1904,5,25,USA,NY,New York,John,Hayes,John Edward,170,67,,,1876-09-09,1876-09-16,hayem101,hayesmi01
 hayesvo01,1958,8,31,USA,CA,Stockton,,,,,,,Von,Hayes,Von Francis,185,77,L,R,1981-04-14,1992-08-19,hayev001,hayesvo01
 hayhudi01,1981,3,24,USA,OH,Canton,,,,,,,Dirk,Hayhurst,Dirk Von,200,75,L,R,2008-08-23,2009-10-02,hayhd001,hayhudi01
@@ -7907,7 +7907,7 @@ hernaar01,1992,3,2,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Ariel,Hernandez,Ar
 hernaca01,1967,5,24,Venezuela,Bolivar,San Felix,,,,,,,Carlos,Hernandez,Carlos Alberto,185,71,R,R,1990-04-20,2000-10-01,hernc001,hernaca01
 hernaca02,1975,12,12,Venezuela,Distrito Federal,Caracas,,,,,,,Carlos,Hernandez,Carlos Eduardo,175,69,R,R,1999-05-26,2000-04-26,hernc003,hernaca02
 hernaca03,1980,4,22,Venezuela,Carabobo,Guacara,,,,,,,Carlos,Hernandez,Carlos Enrique,205,71,L,L,2001-08-18,2004-09-26,hernc004,hernaca03
-hernaca04,1997,3,11,Venezuela,,Guayana,,,,,,,Carlos,Hernandez,Carlos Eduardo,250,76,R,R,2020-09-01,2020-09-01,,
+hernaca04,1997,3,11,Venezuela,Bolivar,Guayana,,,,,,,Carlos,Hernandez,Carlos Eduardo,250,76,R,R,2020-09-01,2020-09-01,hernc006,hernaca04
 hernace01,1966,9,28,D.R.,Monte Plata,Yamasa,,,,,,,Cesar,Hernandez,Cesar Dario,160,72,R,R,1992-07-19,1993-05-17,hernc002,hernace01
 hernace02,1990,5,23,Venezuela,Carabobo,Valencia,,,,,,,Cesar,Hernandez,Cesar Augusto,195,70,B,R,2013-05-29,2020-09-01,hernc005,hernace02
 hernach01,1916,1,3,Cuba,La Habana,La Habana,1986,1,3,Cuba,La Habana,La Habana,Chico,Hernandez,Salvador Jose,195,72,R,R,1942-04-16,1943-07-28,hernc101,hernach01
@@ -15932,7 +15932,7 @@ santijo03,1974,11,5,P.R.,,Fajardo,,,,,,,Jose,Santiago,Jose Rafael,200,75,R,R,199
 santira01,1979,8,31,D.R.,San Juan,Las Matas de Farfan,,,,,,,Ramon,Santiago,Ramon DeJesus,185,71,B,R,2002-05-17,2014-09-27,santr002,santira01
 santoal01,1948,5,19,USA,NJ,Irvington,,,,,,,Al,Santorini,Alan Joel,190,72,R,R,1968-09-10,1973-05-05,santa101,santoal01
 santoan01,1979,8,14,P.R.,,Rio Piedras,,,,,,,Angel,Santos,Angel Ramon,178,71,B,R,2001-09-08,2003-09-28,santa002,santoan01
-santoan02,1996,10,6,D.R.,,Villa Gonzalez,,,,,,,Antonio,Santos,Antonio Nathanahel,223,75,R,R,2020-09-01,2020-09-01,,
+santoan02,1996,10,6,D.R.,Santiago,Villa Gonzalez,,,,,,,Antonio,Santos,Antonio Nathanahel,223,75,R,R,2020-09-01,2020-09-01,santa004,santoan02
 santoch01,1981,4,28,USA,HI,Honolulu,,,,,,,Chad,Santos,Chad Roque,220,71,L,L,2006-07-16,2006-07-20,santc001,santoch01
 santofr01,1974,3,9,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Francisco,Santos,Francisco Alejandro,170,73,L,L,2003-06-18,2003-07-03,santf002,santofr01
 santolo99,1889,1,17,USA,TX,Fort Worth,1942,1,6,USA,PA,Philadelphia,Louis,Santop,D. Louis,240,76,L,R,,,,santolo99
@@ -18164,7 +18164,7 @@ tonkimi01,1989,11,19,USA,CA,Glendale,,,,,,,Michael,Tonkin,Michael Harvey,220,79,
 tonneto01,1881,9,10,USA,IL,Chicago,1951,8,4,USA,AZ,Prescott,Tony,Tonneman,Charles Richard,175,70,R,R,1911-09-19,1911-09-22,tonnt101,tonneto01
 toolebe01,1886,8,30,USA,MI,Howell,1976,8,17,USA,MI,Marshall,Bert,Tooley,Albert R.,155,70,R,R,1911-04-12,1912-08-09,toolb101,toolebe01
 toolest01,1859,4,9,USA,LA,New Orleans,1919,3,28,USA,PA,Pittsburgh,Steve,Toole,Stephen John,170,72,R,L,1886-04-20,1890-08-09,tools101,toolest01
-topaju01,1991,3,7,USA,NY,Binghamton,,,,,,,Justin,Topa,Justin Robert,200,76,R,R,2020-09-01,2020-09-01,,
+topaju01,1991,3,7,USA,NY,Binghamton,,,,,,,Justin,Topa,Justin Robert,200,76,R,R,2020-09-01,2020-09-01,topaj001,topaju01
 toporsp01,1899,2,9,USA,NY,New York,1989,5,17,USA,NY,Huntington Station,Specs,Toporcer,George,165,70,L,R,1921-04-13,1928-06-02,topos101,toporsp01
 toppiru01,1941,12,7,Panama,Panama,Panama,,,,,,,Rupe,Toppin,Ruperto,185,72,R,R,1962-07-28,1962-08-01,toppr101,toppiru01
 torboje01,1941,11,26,USA,NJ,Plainfield,,,,,,,Jeff,Torborg,Jeffrey Allen,195,72,R,R,1964-05-10,1973-09-29,torbj101,torboje01
@@ -19239,7 +19239,7 @@ whiteed02,1964,2,9,USA,PA,Bristol,,,,,,,Ed,Whited,Edward Morris,195,75,R,R,1989-
 whiteel01,1849,12,7,USA,NY,Caton,1872,3,17,USA,NY,Scio,Elmer,White,Willard Elmer,,,,,1871-05-04,1871-09-27,white104,whiteel01
 whiteel02,1933,12,23,USA,NC,Colerain,2010,11,16,USA,NC,Ahoskie,Elder,White,Elder Lafayette,165,71,R,R,1962-04-10,1962-06-03,white105,whiteel02
 whiteel03,1979,10,22,USA,MS,New Albany,,,,,,,Eli,Whiteside,Dustin Eli,220,74,R,R,2005-07-05,2014-06-21,white004,whiteel03
-whiteel04,1994,6,26,USA,SC,Greenville,,,,,,,Eli,White,Elijah Thomas,195,75,R,R,2020-09-01,2020-09-01,,
+whiteel04,1994,6,26,USA,SC,Greenville,,,,,,,Eli,White,Elijah Thomas,195,75,R,R,2020-09-01,2020-09-01,white006,whiteel04
 whiteer01,1916,9,5,USA,SC,Pacolet Mills,1974,5,22,USA,GA,Augusta,Ernie,White,Ernest Daniel,175,71,R,L,1940-05-09,1948-10-03,white103,whiteer01
 whiteev01,1996,4,26,USA,OH,Columbus,,,,,,,Evan,White,Evan McKee,220,75,R,L,2020-07-24,2020-08-31,white005,whiteev01
 whitefr01,1950,9,4,USA,MS,Greenville,,,,,,,Frank,White,Frank,165,71,R,R,1973-06-12,1990-09-30,whitf001,whitefr01
