@@ -5849,7 +5849,7 @@ fordru01,1883,4,25,CAN,MB,Brandon,1960,1,24,USA,NC,Rockingham,Russ,Ford,Russell 
 fordte01,1947,2,7,USA,NJ,Vineland,,,,,,,Ted,Ford,Theodore Henry,180,70,R,R,1970-04-07,1973-09-29,fordt102,fordte01
 fordto01,1866,10,,USA,TN,Chattanooga,1917,5,27,USA,TN,Chattanooga,Tom,Ford,Thomas Walter,155,70,,,1890-05-06,1890-08-25,fordt101,fordto01
 fordwe01,1946,11,25,Bahamas,New Providence,Nassau,1980,7,8,Bahamas,New Providence,Nassau,Wenty,Ford,Percival Edmund Wentworth,165,71,R,R,1973-09-10,1973-09-30,fordw102,fordwe01
-fordwh01,1928,10,21,USA,NY,New York,,,,,,,Whitey,Ford,Edward Charles,178,70,L,L,1950-07-01,1967-05-21,fordw101,fordwh01
+fordwh01,1928,10,21,USA,NY,New York,2020,10,8,USA,NY,Lake Success,Whitey,Ford,Edward Charles,178,70,L,L,1950-07-01,1967-05-21,fordw101,fordwh01
 fordybr01,1970,5,7,USA,CT,New London,,,,,,,Brook,Fordyce,Brook Alexander,185,73,R,R,1995-04-26,2004-10-02,fordb001,fordybr01
 forembr01,1874,8,6,USA,MD,Baltimore,1926,10,10,USA,MD,Baltimore,Brownie,Foreman,John Davis,150,68,L,L,1895-07-18,1896-09-22,foreb101,forembr01
 foremfr01,1863,5,1,USA,MD,Baltimore,1957,11,19,USA,MD,Baltimore,Frank,Foreman,Francis Isaiah,160,72,R,R,1884-05-15,1902-05-10,foref101,foremfr01
@@ -12636,7 +12636,7 @@ morgacy02,1895,11,11,USA,MA,Lakeville,1946,9,11,USA,MA,Lakeville,Cy,Morgan,Cyril
 morgaed01,1904,5,22,USA,IL,Cairo,1980,4,9,USA,LA,New Orleans,Ed,Morgan,Edward Carre,180,72,R,R,1928-04-11,1934-09-30,morge102,morgaed01
 morgaed02,1914,11,19,USA,OH,Brady Lake,1982,6,27,USA,OH,Lakewood,Eddie,Morgan,Edwin Willis,160,70,L,L,1936-04-14,1937-07-23,morge101,morgaed02
 morgajo01,1930,11,19,USA,MA,Walpole,,,,,,,Joe,Morgan,Joseph Michael,170,70,L,R,1959-04-14,1964-10-03,morgj101,morgajo01
-morgajo02,1943,9,19,USA,TX,Bonham,,,,,,,Joe,Morgan,Joe Leonard,160,67,L,R,1963-09-21,1984-09-30,morgj001,morgajo02
+morgajo02,1943,9,19,USA,TX,Bonham,2020,10,11,USA,CA,Danville,Joe,Morgan,Joe Leonard,160,67,L,R,1963-09-21,1984-09-30,morgj001,morgajo02
 morgake01,1969,12,3,USA,LA,Lafayette,,,,,,,Kevin,Morgan,Kevin Lee,170,73,R,R,1997-06-15,1997-06-15,morgk001,morgake01
 morgami01,1959,10,8,USA,CA,Tulare,,,,,,,Mike,Morgan,Michael Thomas,195,75,R,R,1978-06-11,2002-09-02,morgm001,morgami01
 morgany01,1980,7,2,USA,CA,San Francisco,,,,,,,Nyjer,Morgan,Nyjer Jamid,180,70,L,L,2007-09-01,2014-05-14,morgn001,morgany01
